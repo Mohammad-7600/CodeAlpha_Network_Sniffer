@@ -1,5 +1,10 @@
 # CodeAlpha_Network_Sniffer
 Basic Network Sniffer using Scapy - CodeAlpha Task 1
+
+#Author
+#Mohammad Balva
+#CodeAlpha Cyber Security Intern (November 2026)
+
 # CodeAlpha Cyber Security Internship
 ## Task 1: Basic Network Sniffer
 
@@ -26,7 +31,3 @@ pip install scapy
 sudo python3 network_sniffer.py
 sudo python3 network_sniffer.py -i eth0 -c 50
 sudo python3 network_sniffer.py --filter "tcp port 80"
-
-Author
-Mohammad Balva
-CodeAlpha Cyber Security Intern (November 2026)
